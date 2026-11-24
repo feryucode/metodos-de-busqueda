@@ -11,18 +11,8 @@ Ejercicios prácticos de tres métodos de búsqueda en Python, reunidos en un pr
 
 ## Cómo ejecutarlo
 
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/feryucode/MetodosBusqueda.git](https://github.com/feryucode/MetodosBusqueda.git)
-   cd MetodosBusqueda
-   ```
-2. Corre el menú principal con Python 3:
+1. Corre el menú principal con Python 3:
    ```bash
    python menu.py
    ```
-   Si quieres probar uno solo, también puedes ejecutar cada archivo por separado (por ejemplo, `python busqueda_hash.py`).
 
-## Autor
-
-César Alejandro Pérez Chel — 3SA
-````[cite: 2]
